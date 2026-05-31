@@ -1,0 +1,38 @@
+[
+  {
+    "layout": "title",
+    "header": "养虾人的五个终极目标",
+    "subtitle": "HOMO AI Studio 出品",
+    "duration": 3.0
+  },
+  {
+    "layout": "bullet",
+    "header": "① 社交媒体全自动运营",
+    "items": ["自动刷短视频", "监控竞品账号", "自动分发全平台"],
+    "durations": [1.8, 2.0, 2.0, 2.0]
+  },
+  {
+    "layout": "bullet",
+    "header": "② 内容创作全流程自动化",
+    "items": ["自动写文案", "视频拆解+重生成", "配音画面全搞定"],
+    "durations": [1.8, 2.0, 2.0, 2.0]
+  },
+  {
+    "layout": "bullet",
+    "header": "③ 数据分析智能决策",
+    "items": ["AI实时监控数据", "自动生成运营报告", "智能调整投放策略"],
+    "durations": [1.8, 2.0, 2.0, 2.0]
+  },
+  {
+    "layout": "bullet",
+    "header": "④ 精准获客高效转化",
+    "items": ["AI筛选目标用户", "自动化沟通触达"],
+    "durations": [1.8, 2.0, 2.0]
+  },
+  {
+    "layout": "quote",
+    "header": "让AI帮你工作，你只管收钱",
+    "subtitle": "HOMO AI Studio",
+    "duration": 3.0
+  }
+]
